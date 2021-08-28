@@ -1,0 +1,6 @@
+framework module Pods_VTCodeView_Tests {
+  umbrella header "Pods-VTCodeView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

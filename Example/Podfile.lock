@@ -1,0 +1,20 @@
+PODS:
+  - VTCodeView (0.1.0):
+    - VTCodeView/CodeView (= 0.1.0)
+    - VTCodeView/ConstraintMaker (= 0.1.0)
+  - VTCodeView/CodeView (0.1.0)
+  - VTCodeView/ConstraintMaker (0.1.0)
+
+DEPENDENCIES:
+  - VTCodeView (from `../`)
+
+EXTERNAL SOURCES:
+  VTCodeView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VTCodeView: c7eda1dd2ebfe8fc5afca132ee04d634cb77fb29
+
+PODFILE CHECKSUM: b68b3b8cafcdd8ecbd671c361b43d06b51598782
+
+COCOAPODS: 1.8.4
